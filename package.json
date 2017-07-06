@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ParzivalWins/Weather-API-NODE/issues"
   },
-  "homepage": "https://github.com/ParzivalWins/Weather-API-NODE#readme"
+  "homepage": "https://github.com/ParzivalWins/Weather-API-NODE#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
 }
